@@ -45,7 +45,7 @@
     { "classname": "keyboard-button", "en": "l", "enUp": "L", "ru": "д", "ruUp": "Д", "code": "KeyL" },
     { "classname": "keyboard-button", "en": ";", "enUp": ":", "ru": "ж", "ruUp": "Ж", "code": "Semicolon" },
     { "classname": "keyboard-button", "en": "'", "enUp": "\"", "ru": "э", "ruUp": "Э", "code": "Quote" },
-    { "classname": "keyboard-button keyboard-long", "en": "Enter", "code": "Enter" }
+    { "classname": "keyboard-button keyboard-long", "en": "enter", "code": "enter" }
   ],
   [
     { "classname": "keyboard-button keyboard-long", "en": "Shift", "code": "ShiftLeft" },
