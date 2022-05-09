@@ -16,7 +16,7 @@ class Application extends Control {
                 downButt.push(e.code);
                 console.log(downButt);
             }
-            if (downButt.length>= 2){
+            if (downButt.includes("ShiftLeft")&& downButt.includes("AltLeft")){
                 const lang = this.languages[1]
                 this.changLang(lang);
                 const a = this.languages.shift();
